@@ -1,0 +1,22 @@
+
+
+body {
+background-color: aqua;
+
+
+}
+h1{
+    text-align: center;
+    color: blue; margin: 1cm;
+    font-size: 50px;
+}
+h2{
+    color: blueviolet; margin: 1cm;
+    font-size: 30px;
+}
+
+p{
+    color: darkgreen; margin: 1cm;
+    font-size: 20px;
+}
+ 
